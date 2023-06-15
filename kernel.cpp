@@ -1,4 +1,3 @@
-
 void printf(char *str)
 {
     unsigned short* VideoMemory = (unsigned short*)0xb8000;
